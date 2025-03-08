@@ -59,4 +59,10 @@ https://github.com/user-attachments/assets/65d1db0a-2886-4d19-9337-891f92c0e46a
 For a complete walkthrough of the system, watch the **Satellite Health Monitoring Dashboard Demo**:
 []\(Satellite Health Monitoring Dashboard Sample Video.mp4)
 
-##
+## Next Improvements
+
+- Tune the dataset to improve the accuracy and reliability of telemetry data.
+
+- Incorporate more realistic data to better simulate real satellite conditions.
+
+- Enhance the dashboard for improved visualization and usability.
