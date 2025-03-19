@@ -1,5 +1,3 @@
-!pip install mysql-connector-python
-
 import mysql
 import mysql.connector
 import pandas as pd
@@ -22,9 +20,9 @@ import joblib
 DIGITAL_TWIN_VERSION = "4.0"
 SYSTEM_ID = "SAT-2025-DT-001"
 DB_CONFIG = {
-    "host": "localhost",
-    "user": "root",
-    "password": "Madesh6554@12",
+    "host": "satellitedata.cdgkmkogm0tq.ap-south-1.rds.amazonaws.com",
+    "user": "admin",
+    "password": "Madesh6554",
     "database": "satellite_data",
     "table": "real_time_data_3"
 }
