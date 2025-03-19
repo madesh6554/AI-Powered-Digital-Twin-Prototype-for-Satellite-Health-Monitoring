@@ -1,7 +1,8 @@
 streamlit
 plotly
 pandas
-mysqlclient
+mysql-client
+
 SQLAlchemy
 scikit-learn
 joblib
